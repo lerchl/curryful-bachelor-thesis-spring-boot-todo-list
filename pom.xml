@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.curryful</groupId>
-	<artifactId>todo.spring</artifactId>
+	<artifactId>todo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>todo.spring</name>
-	<description>Demo project for Spring Boot</description>
+	<name>todo</name>
+	<description>Demo project for Curryful bachelor thesis</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
@@ -37,5 +37,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>

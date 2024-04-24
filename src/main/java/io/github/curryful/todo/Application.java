@@ -1,4 +1,4 @@
-package io.github.curryful.todo.spring;
+package io.github.curryful.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,13 +1,11 @@
-package io.github.curryful.todo.spring;
-
-import io.github.curryful.todo.spring.Todo;
-
-import org.springframework.stereotype.Service;
+package io.github.curryful.todo;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
+
+import org.springframework.stereotype.Service;
 
 @Service
 public class TodoService {

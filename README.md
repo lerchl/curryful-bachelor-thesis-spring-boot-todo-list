@@ -21,6 +21,3 @@ Original prompt:
 
 ## Run
 Can be run with this command: `./mvnw spring-boot:run`
-
-## Changes
-All that needed to be changed were the package names and subsequent imports.

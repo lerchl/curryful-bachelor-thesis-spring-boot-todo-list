@@ -1,6 +1,7 @@
-package io.github.curryful.todo.spring;
+package io.github.curryful.todo;
 
 public class Todo {
+
     private long id;
     private String title;
     private boolean completed;
