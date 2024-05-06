@@ -25,7 +25,7 @@ do
     PID=$!
 
     # Wait for a few seconds to let the application initialize
-    sleep 2
+    sleep 5
 
     # Kill the application
     kill $PID
